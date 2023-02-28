@@ -4,8 +4,6 @@
 
 <a href="https://aws.amazon.com/marketplace/pp/prodview-iedtsdptd6xje" target="_blank">ZenMicro Cost Analyzer</a>
 
-[ZenMicro Cost Analyzer](https://aws.amazon.com/marketplace/pp/prodview-iedtsdptd6xje){:target="_blank" rel="noopener"}
-
 
 1. Click "Continue to Subscribe"
 
