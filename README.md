@@ -1,8 +1,8 @@
 # Getting Started
 
-## Visit the AWS Marketplace
+## Visit the AWS Marketplace page for the Cost Analyzer
 
-https://aws.amazon.com/marketplace/pp/prodview-iedtsdptd6xje
+<a href="https://aws.amazon.com/marketplace/pp/prodview-iedtsdptd6xje" target="_blank">ZenMicro Cost Analyzer</a>
 
 
 1. Click "Continue to Subscribe"
