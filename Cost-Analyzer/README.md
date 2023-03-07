@@ -1,3 +1,3 @@
 # Cost Analyzer Documentation
 
-1. [Quickstart Guide](/Quickstart/README.md)
+1. [Quickstart Guide](/Cost-Analyzer/Quickstart/README.md)
