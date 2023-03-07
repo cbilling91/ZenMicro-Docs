@@ -18,6 +18,12 @@
 
 6. Get your AWS Account number by clicking in the upper right if your AWS Console
 
-```username @ 1111-2222-3333```
+    ```username @ 1111-2222-3333```
 
-And then clicking the copy icon next to the "Account ID" field.
+    And then clicking the copy icon next to the "Account ID" field.
+
+7. You can now enter those two items into the ZenMicro Account Details window
+
+8. You will be promted to login again. After that, you will be presented with the ZenMicro Dashboard
+
+![Alt Text](/img/dashboard.png)
