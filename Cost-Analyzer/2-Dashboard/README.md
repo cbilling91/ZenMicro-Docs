@@ -18,6 +18,6 @@
 
 6. Get your AWS Account number by clicking in the upper right if your AWS Console
 
-<username @ 1111-2222-3333>
+```username @ 1111-2222-3333```
 
 And then clicking the copy icon next to the "Account ID" field.
